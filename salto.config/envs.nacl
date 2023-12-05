@@ -1,0 +1,16 @@
+envs {
+  envs = [
+    {
+      name = "Mikis Env 1"
+      accountToServiceName = {
+        salesforce = "salesforce"
+      }
+    },
+    {
+      name = "Another one"
+      accountToServiceName = {
+        salesforce = "salesforce"
+      }
+    },
+  ]
+}

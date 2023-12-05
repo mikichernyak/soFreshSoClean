@@ -1,0 +1,9 @@
+type salesforce.WebCartAdjustmentBasis {
+  salesforce.MasterDetail WebCartId {
+    apiName = "WebCartAdjustmentBasis.WebCartId"
+    _hidden_value = true
+  }
+  string AdjustmentBasisDetail {
+    _hidden_value = true
+  }
+}
