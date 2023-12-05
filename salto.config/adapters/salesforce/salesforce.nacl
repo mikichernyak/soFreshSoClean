@@ -25,6 +25,12 @@ salesforce {
           metadataType = "DashboardFolder"
         },
         {
+          metadataType = "Document"
+        },
+        {
+          metadataType = "DocumentFolder"
+        },
+        {
           metadataType = "Profile"
         },
         {
@@ -41,6 +47,15 @@ salesforce {
         },
         {
           metadataType = "CustomObjectTranslation"
+        },
+        {
+          metadataType = "AnalyticSnapshot"
+        },
+        {
+          metadataType = "WaveDashboard"
+        },
+        {
+          metadataType = "WaveDataflow"
         },
         {
           metadataType = "StandardValueSet"
